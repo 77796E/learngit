@@ -24,5 +24,6 @@ int main()
         cout<<data[i]<<" ";
     cout<<endl;
     cout<<"这里做了修改！！！"<<endl;
+	cout<<"ok"<<endl;
     system("pause");
 }
