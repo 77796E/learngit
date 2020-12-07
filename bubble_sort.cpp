@@ -26,5 +26,4 @@ int main()
     cout<<"这里做了修改！！！"<<endl;
     system("pause");
 }
-这里修改了
-可以哦
+懂了，都修改了
